@@ -12,3 +12,5 @@ Description:
 Employer creates a company profile, creates databases and utilizes tables to track hours and company needs for hourly employees
 Employee profiles created by admin, employees set availability, and admin gets data and creates schedule very easily
 
+.
+
